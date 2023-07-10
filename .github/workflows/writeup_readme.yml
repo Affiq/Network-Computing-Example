@@ -9,7 +9,7 @@ on:
     paths:
       - 'writeup.pdf'
       - '.README.md'
-      - '.github/workflows/writeup-readme.yml'
+      - '.github/workflows/writeup_readme.yml'
 
 jobs:
   run:
