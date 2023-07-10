@@ -1,2 +1,29 @@
-# Network-Computing-Example
-A network computing approach to a multithreaded client-server bank architecture. This
+
+
+
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-000.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-001.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-002.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-003.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-004.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-005.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-006.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-007.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-008.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-009.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-010.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-011.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-012.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-013.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-014.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-015.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-016.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-017.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-018.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-019.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-020.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-021.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-022.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-023.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-024.jpg?raw=true)
+![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-025.jpg?raw=true)
