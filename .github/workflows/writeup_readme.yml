@@ -1,6 +1,6 @@
 ###### Copyright Easton Potokar, 2020
 
-name: Writeup-Readme
+name: Writeup_Readme
 
 on:
   push:
