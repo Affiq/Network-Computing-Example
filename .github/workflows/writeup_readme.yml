@@ -15,7 +15,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      ORPHAN_BRANCH: readme_images
+      ORPHAN_BRANCH: FileUpload
       QUALITY: 85
       DPI: 250
     steps:
