@@ -1,6 +1,8 @@
 # Network Computing Example
 The following document outlines a report on how to create a multi-threaded client-server architecture. It utilises the Socket Library for Java to listen for Socket connections from the client, and utilises properties of Mutual Exclusion locks and a shared monitor between threads to execute critical sections of code without interfering with any other threads. As our context is a banking scenario, it is extremely important to adhere to the ACID principle of our database.
 
+The main program features concurrent transaction handling capabilities, including add, subtract, and transfer functions, utilizing three thin client threads and a main thread responsible for socket handling and central processing. 
+
 The code can be found at the end of the PDF file, but will soon be allocated to its own respective folder.
 
 
