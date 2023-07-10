@@ -1,7 +1,6 @@
 
 
 
-![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-000.jpg?raw=true)
 ![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-001.jpg?raw=true)
 ![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-002.jpg?raw=true)
 ![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-003.jpg?raw=true)
