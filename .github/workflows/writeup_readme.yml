@@ -1,6 +1,6 @@
 ###### Copyright Easton Potokar, 2020
 
-name: Writeup_Readme
+name: Writeup-Readme
 
 on:
   push:
@@ -23,7 +23,6 @@ jobs:
       with:
         persist-credentials: false
         fetch-depth: 0
-        force: true
 
     ## CONVERT THE ACTUAL IMAGES
     - name: Convert Writeup to Images
@@ -71,7 +70,7 @@ jobs:
         git config --local user.name "GithubActions"
         git commit -m "Updated Readme" -a
     - name: Push changes
-      uses: ad-m/github-push-action@main
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
