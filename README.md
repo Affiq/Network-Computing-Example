@@ -3,7 +3,6 @@ The following document outlines a report on how to create a multi-threaded clien
 
 The main program features concurrent transaction handling capabilities, including add, subtract, and transfer functions, utilizing three thin client threads and a main thread responsible for socket handling and central processing. 
 
-The code can be found at the end of the PDF file, but will soon be allocated to its own respective folder.
 
 
 ![image](https://github.com/Affiq/Network-Computing-Example/blob/FileUpload/output-001.jpg?raw=true)
